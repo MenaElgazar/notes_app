@@ -20,7 +20,7 @@ return MaterialApp(
   )
 
   ,
-  home:const NotesViews(),
+  home:NotesViews(),
 );
   }
 
